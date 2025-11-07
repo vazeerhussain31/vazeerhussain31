@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Dudekula Vazeerhussain 👋
 Python Developer & Data Analyst — I turn raw data into actionable insights through clean code, visualizations, and reproducible analysis.
 
